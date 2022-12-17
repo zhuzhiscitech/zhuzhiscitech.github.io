@@ -6,7 +6,7 @@
 
 *Date of birth: 24 June 1990*
 
-*Address: Bunkyo-ku, Tokyo, Japan*
+*Address: Tokyo, Japan*
 
 *E-mail: zhuzhijason@foxmail.com*
 
@@ -98,7 +98,7 @@
 
 **Journal Paper**
 
-[1] Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Contribution of modulation spectral features on the perception of vocal-emotion using noise-vocoded speech,” Acoustical Science and Technology, Vol. 39, Np. 6, pp. 379-386, 2018. https://doi.org/10.1250/ast.39.379
+[1] Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Contribution of modulation spectral features on the perception of vocal-emotion using noise-vocoded speech,” Acoustical Science and Technology, Vol. 39, Np. 6, pp. 379-386, 2018. (doi)[https://doi.org/10.1250/ast.39.379]
 
 [2]	Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Contributions of Temporal Cue on the Perception of Speaker Individuality and Vocal Emotion for Noise-vocoded Speech,” Acoustical Science and Technology, Vol. 39, No. 3, pp. 234-242, 2018. https://doi.org/10.1250/ast.39.234
 

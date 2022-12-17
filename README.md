@@ -2,25 +2,9 @@
 
 *Name: 朱治 ZHU ZHI*
 
-*Gender: Male*
-
-*Date of birth: 24 June 1990*
-
 *Address: Tokyo, Japan*
 
-*E-mail: zhuzhijason@foxmail.com*
-
-### Skills
-- Language Skills
-  - Chinese: Native
-  - Japanese: 日本語能力試験N1合格
-  - English: TOEIC 820
-- IT Skills
-  - Python, MATLAB, C++
-  - Speech Signal Processing
-  - Statistical Analysis
-  - Machine Learning
-  - Deep Learning: PyTorch, Tensorflow, Keras
+*E-mail: zhuzhiscitech@gmail.com*
 
 ### Education Experience
 
@@ -38,10 +22,10 @@
   - 北陸先端科学技術大学院大学　情報科学研究科　研究生
   - Japan Advanced Institute of Science and Technology, School of Information Science, Research Student
 
-- September 2008 - June 2012  Bachelor Degree in Communication Engineering & Electronics Engineering
+- September 2008 - June 2012 
   - 南京邮电大学 海外教育学院 通信工程专业
-  - Nanjing University of Posts and Telecommunications, School of Oversea Education
-  - New York Institute of Techonology
+  - Nanjing University of Posts and Telecommunications, Bachelor Degree of Communication Engineering
+  - New York Institute of Techonology, Bachelor of Science, Electrical and Computer Engineering
   - Thesis: Frequency Offset Estimation for Orthogonal Frequency-Division Multiplexing Systems
 
 ### Work experience
@@ -64,7 +48,16 @@
 
 - October 2013 - March 2016
   - Japan Advanced Institute of Science and Technology
-  - Part-time researcher
+  - Part-time Researcher
+
+### Skills
+- Language Skills
+  - Chinese: Native
+  - Japanese: 日本語能力試験N1合格
+  - English: TOEIC 820
+- IT Skills
+  - Python, MATLAB
+  - Deep Learning: PyTorch, Tensorflow, Keras
 
 ### Awards
 

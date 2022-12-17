@@ -20,7 +20,7 @@
   - Speech Signal Processing
   - Statistical Analysis
   - Machine Learning
-  - Deep Learning: Tensorflow, Keras
+  - Deep Learning: PyTorch, Tensorflow, Keras
 
 ### Education Experience
 
